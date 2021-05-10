@@ -12,6 +12,8 @@ parseFloat = converte string em float;
 
 toFixed = fixar o a ate quantos numeros ou letras ficar no parametro;
 
-Math.pow = pegar uma variavel no primeiro parametro e elevar ela ao numero do segundo parametro
+Math.pow = pegar uma variavel no primeiro parametro e elevar ela ao numero do segundo parametro;
 
-Math.abs = retorna o valor absoluto
+Math.sqrt = Retorna a raiz quadrada de um número;
+
+Math.abs = retorna o valor absoluto;
