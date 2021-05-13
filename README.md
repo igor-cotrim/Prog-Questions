@@ -32,7 +32,7 @@ O resultado deve ser apresentado com uma casa decimal.
 4. Adicione o arquivo a pasta do nível adequado - Se não existir a pasta, crie de acordo com o padrão.
 5. Faça commit no seu repositório
 6. Abra um Pull Request para este Repositório
-    - Na descrição do seu PR explique seu algoritmo. Se existir outra resolução no repositório original renomei seu arquivo para o número seguinte da versão, como por exemplo: Versão 1 `1001.js` - Versão 2 `1001-2.js`
+    - Na descrição do seu PR explique seu algoritmo. Se existir outra resolução no repositório original renomei seu arquivo para o número seguinte da versão, como por exemplo: Versão 1 `1001-Triangulo.js` - Versão 2 `1001-Triangulo-2.js`
 7. Espere seu PR ser aceito :rocket:
 
 Lembre-se: Não existe código ruim, existem visões/versões diferentes de resolver o mesmo problema. :blush:
