@@ -27,7 +27,6 @@ const dataInicial = new Date(
   hInicial,
   minInicial
 );
-console.log(dataInicial);
 
 const dataFinal = new Date(
   base.getFullYear(),
@@ -36,14 +35,10 @@ const dataFinal = new Date(
   hFinal,
   minFinal
 );
-console.log(dataFinal);
 
 const difMili = dataFinal - dataInicial;
 let difHoras = Math.floor((difMili % 86400000) / 3600000);
 let difMinutos = Math.round(((difMili % 86400000) % 3600000) / 60000);
 
 if (!difHoras && !difMinutos) difHoras = 24;
-console.log(difMili);
-console.log(difHoras);
-console.log(difMinutos);
-// console.log(`O JOGO DUROU ${difHoras} HORA(S) E ${difMinutos} MINUTO(S)`);
+console.log(`O JOGO DUROU ${difHoras} HORA(S) E ${difMinutos} MINUTO(S)`);
